@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1b27,100:2E9EF7&height=220&section=header&text=Muhammad%20Bilal%20Ul%20Haq&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Student%20·%20Aspiring%20Full-Stack%20Developer&descSize=16&descAlignY=55&descAlign=50" width="100%" />
 
   <!-- Typing Animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Building+with+Java+%26+C%23+%E2%9A%99%EF%B8%8F;Mastering+Data+Structures+%26+Algorithms+%F0%9F%A7%A0;Full-Stack+Web+%26+App+Development+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=50&lines=Building+with+Java+%26+C%23+%E2%9A%99%EF%B8%8F;Mastering+Data+Structures+%26+Algorithms+%F0%9F%A7%A0;Full-Stack+Web+%26+App+Development+%F0%9F%9A%80" alt="Typing SVG" />
 
   <!-- Profile Badges -->
   <br/>
