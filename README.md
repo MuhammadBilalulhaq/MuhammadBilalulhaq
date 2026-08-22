@@ -77,8 +77,8 @@ fun_fact: "I learn best by building, breaking, and rebuilding things 🔧"
 
   <br/><br/>
 
-  <!-- 🔥 GitHub Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=MuhammadBilalulhaq&theme=algolia&hide_border=true&background=0D1117&stroke=2E9EF7&ring=2E9EF7&fire=FF6B35&currStreakLabel=2E9EF7&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=555555" alt="GitHub Streak" />
+  <!-- 🔥 GitHub Streak Stats (self-hosted on Vercel) -->
+  <img src="https://github-readme-streak-stats-pearl-alpha.vercel.app?user=MuhammadBilalulhaq&theme=algolia&hide_border=true&background=0D1117&stroke=2E9EF7&ring=2E9EF7&fire=FF6B35&currStreakLabel=2E9EF7&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=555555" alt="GitHub Streak" />
 
   <br/><br/>
 
