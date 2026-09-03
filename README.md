@@ -70,11 +70,11 @@ fun_fact: "I learn best by building, breaking, and rebuilding things 🔧"
 <div align="center">
 
   <!-- GitHub Stats Card -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MuhammadBilalulhaq&show_icons=true&theme=algolia&count_private=true&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=C9D1D9&ring_color=2E9EF7" alt="GitHub Stats" />
+   <!-- GitHub Stats Card -->
+  <img height="180em" src="https://github-readme-stats-sigma-one-34.vercel.app/api?username=MuhammadBilalulhaq&show_icons=true&theme=algolia&count_private=true&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=C9D1D9&ring_color=2E9EF7" alt="GitHub Stats" />
   &nbsp;&nbsp;
   <!-- Top Languages Card -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadBilalulhaq&layout=compact&theme=algolia&hide_border=true&bg_color=0D1117&title_color=2E9EF7&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
-
+  <img height="180em" src="https://github-readme-stats-sigma-one-34.vercel.app/api/top-langs/?username=MuhammadBilalulhaq&layout=compact&theme=algolia&hide_border=true&bg_color=0D1117&title_color=2E9EF7&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
   <br/><br/>
 
   <!-- 🔥 GitHub Streak Stats (self-hosted on Vercel) -->
